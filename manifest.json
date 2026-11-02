@@ -1,0 +1,8 @@
+{
+  "name": "BMTC Pass",
+  "short_name": "BMTC Pass",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
